@@ -1,0 +1,19 @@
+1.4|eboot.bin|ID:CUSA02624|VER:01.00|FM:505
+data|3|790180|4 bytes|5|1|God Mode Client 0 //05|21A8180
+data|3|7A6E14|4 bytes|133337|1|Point Client 0|21BEE14
+data|3|7907E8|4 bytes|13337|1|Primary Ammo Weap 1|21A87E8
+data|3|7907F0|4 bytes|13337|0|Primary Ammo Weap 2|21A87F0
+data|3|7907AC|4 bytes|771|0|Secondary Ammo Weap 1|21A87AC
+data|3|7907B4|4 bytes|3333|0|Secondary Ammo Weap 2|21A87B4
+data|3|7A6E5C|4 bytes|3|0|Hide HUD //01 ON - 03 OFF|21BEE5C
+
+data|3|790508|4 bytes|0|0|Give Primary Weapon|21A8508
+data|3|790568|4 bytes|0|0|Give Secondary Weapon|21A8568
+
+data|3|790167|4 bytes|0|0|Freeze|21A8167
+data|3|7908F8|4 bytes|0|0|FLAMME 02 = ON - 04 = OFF|21A88F8
+data|3|7A6D64|4 bytes|0|0|Name|21BED64
+
+
+
+100 = missiles

@@ -1,0 +1,12 @@
+C:\Users\boost\source\repos\BO3 PS4 1.00\BO3 PS4 1.00\bin\Debug\PS4Lib.dll
+C:\Users\boost\source\repos\BO3 PS4 1.00\BO3 PS4 1.00\obj\Debug\BO3_PS4_1._00.Form1.resources
+C:\Users\boost\source\repos\BO3 PS4 1.00\BO3 PS4 1.00\obj\Debug\BO3_PS4_1._00.Properties.Resources.resources
+C:\Users\boost\source\repos\BO3 PS4 1.00\BO3 PS4 1.00\obj\Debug\BO3 PS4 1.00.csproj.GenerateResource.cache
+C:\Users\boost\source\repos\BO3 PS4 1.00\BO3 PS4 1.00\obj\Debug\BO3 PS4 1.00.csproj.CoreCompileInputs.cache
+C:\Users\boost\source\repos\BO3 PS4 1.00\BO3 PS4 1.00\obj\Debug\BO3 PS4 1.00.csproj.CopyComplete
+C:\Users\boost\source\repos\BO3 PS4 1.00\BO3 PS4 1.00\obj\Debug\BO3 PS4 1.00.csprojAssemblyReference.cache
+C:\Users\boost\source\repos\BO3 PS4 1.00\BO3 PS4 1.00\bin\Debug\BO3 PS4 1.00.exe.config
+C:\Users\boost\source\repos\BO3 PS4 1.00\BO3 PS4 1.00\bin\Debug\BO3 PS4 1.00.exe
+C:\Users\boost\source\repos\BO3 PS4 1.00\BO3 PS4 1.00\bin\Debug\BO3 PS4 1.00.pdb
+C:\Users\boost\source\repos\BO3 PS4 1.00\BO3 PS4 1.00\obj\Debug\BO3 PS4 1.00.exe
+C:\Users\boost\source\repos\BO3 PS4 1.00\BO3 PS4 1.00\obj\Debug\BO3 PS4 1.00.pdb
